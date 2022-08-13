@@ -1,18 +1,20 @@
-# Remeber to install the following : 
+# Custom ERC20 Token Smart Contract : 
 
-'npm install @openzeppelin/contracts' for node Modules 
+Create an ERC20 token and deploy it on any testnet of your choice 
 
-'npm init'
+## Install Node Modules : 
 
-The project should be able to compile after installing the two : 
+`npm install @openzeppelin/contracts`
 
-## Running the project : 
+`npm init`
 
-'npx hardhat compile' 
+## Compiling and Running the project : 
 
-'npx hardhat node' 
+`npx hardhat compile`
 
-## in a separate terminal / shell do the following command : 
+`npx hardhat node` 
+
+## In a separate terminal / shell run the following command : 
 
 'npx hardhat run ./scripts/deploy.ts'
 
