@@ -20,4 +20,10 @@ Create an ERC20 token and deploy it on any testnet of your choice
 
 ## Important to Note : 
 
-> .env file needs to contain your API Keys from Infura and Etherscan alongside your private keys from metamask wallet. 
+> .env file needs to contain your API Keys from Infura and Etherscan alongside your private keys from metamask wallet. Cr
+
+### Create a .env file with the following lines : 
+
+> 1. ETHERSCAN_API_KEY=8B*****************************8
+> 2. RINKEBY_URL=https://rinkeby.infura.io/v3/bd2*****************************aa
+> 3. PRIVATE_KEY=d39*****************************31
