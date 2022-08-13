@@ -16,8 +16,8 @@ Create an ERC20 token and deploy it on any testnet of your choice
 
 ## In a separate terminal / shell run the following command : 
 
-'npx hardhat run ./scripts/deploy.ts'
+`npx hardhat run ./scripts/deploy.ts`
 
 ## Important to Note : 
 
-.env file needs to contain your API Keys from Infura and Etherscan alongside your private keys from metamask wallet. 
+> .env file needs to contain your API Keys from Infura and Etherscan alongside your private keys from metamask wallet. 
